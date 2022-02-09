@@ -1,0 +1,9 @@
+a=int(input("Enter a number of your choice:"))
+if (a%2)==0:
+  print("Given Number",a,"is EVEN Number")
+else:
+      print("Given Number",a,"is ODD Number")
+      
+output:-
+Enter a number of your choice:74
+Given Number 74 is EVEN Number
