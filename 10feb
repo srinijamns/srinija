@@ -1,0 +1,19 @@
+n=int(input("Enter a number:"))
+if n<0 :
+      print("Given Number is NEGATIVE")
+elif n>0:
+          print("Given Number is POSITIVE")
+else:
+      print("Enter a value other than ZERO")
+
+Output 1:-
+Enter a number:4
+Given Number is POSITIVE
+
+Output 2:-
+Enter a number:0
+Enter a value other than ZERO
+
+Output 3:-
+Enter a number:-7
+Given Number is NEGATIVE
